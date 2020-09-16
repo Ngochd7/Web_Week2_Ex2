@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 This also is a placeholder post.  
 Nothing to see here.  
+![Image_place_holder](/assets/blog_post_1.jpg)  
