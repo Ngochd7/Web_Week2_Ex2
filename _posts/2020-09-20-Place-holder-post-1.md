@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 This also is a placeholder post.  
 Nothing to see here.  
-![Image_place_holder](/assets/blog_post_1.jpg)  
+![Image_place_holder](https://minhmoc710.github.io/Web_Week2_Ex2/assets/blog_post_1.jpg)  

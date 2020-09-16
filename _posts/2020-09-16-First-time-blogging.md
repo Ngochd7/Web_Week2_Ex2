@@ -6,4 +6,4 @@ categories: About Contact
 ---
 First time blogging  
 This is a blog post  
-![First time post](/assets/first_time_post.jpg)  
+![First time post](https://minhmoc710.github.io/Web_Week2_Ex2/assets/first_time_post.jpg)  
